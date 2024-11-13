@@ -11,7 +11,6 @@ ___
 ![책 표지](https://github.com/rickiepark/intro_ml_with_python_2nd_revised/raw/main/cover.jpg)
 ___
 ## 지도 학습(supervised learning)
-test
 ## 비지도 학습(unsupervised learning)
 ## 전처리(preprocessing)
 ## 특성 공학(feature engineering)
